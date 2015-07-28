@@ -1,0 +1,36 @@
+●[2015/06/28]
+　　☆MOD更新
+　　　　├　minecraft forgeを１４２８以降に
+　　　　├　以下のMODを削除しました
+　　　　│　　　　├ AbyssalCraft
+　　　　│　　　　├ Mo Creatures
+　　　　│　　　　└ TwilightForest
+　　　　└　以下のMODを追加しました
+　　　　　　　　　├ bdlib
+　　　　　　　　　├ FluidityFoodstuffs
+　　　　　　　　　├ Gendustry
+　　　　　　　　　├ Advanced Generators
+　　　　　　　　　└ MagicBees
+　　　　　　・他MOD更新
+●[2015/05/05]
+　　☆MOD更新予定
+　　　　├　Forgeを１３８１に更新
+　　　　└　他多数MOD更新
+●[2015/04/06]
+　　☆以下のMODを追加しました
+　　　　├　OpenBlocks
+　　　　└　MFRAddon 他
+　　☆その他MOD更新
+
+●[2015/03/29]
+　　☆以下のMODを追加しました
+　　　　└　Balkon's WeaponMod
+　　☆その他MOD更新
+
+●[2015/03/21]
+　　☆以下のMODを追加しました
+　　　　├　Chisel２
+　　　　├　BuildCraftCompat
+　　　　├　豆腐Craft
+　　　　└　豆腐Factory Reloaded
+　　☆その他MOD更新
